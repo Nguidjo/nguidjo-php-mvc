@@ -1,5 +1,5 @@
 <?php
-/** @var $this \thecodeholic\phpmvc\View */
+/** @var $this \ng\core\View */
 
 $this->title = 'Profile';
 ?>

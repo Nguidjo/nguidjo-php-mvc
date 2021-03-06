@@ -32,7 +32,7 @@
                 <a class="nav-link" href="/about">About</a>
             </li>
         </ul>
-        <?php use thecodeholic\phpmvc\Application;
+        <?php use ng\core\Application;
 
         if (Application::isGuest()): ?>
             <ul class="navbar-nav ml-auto">

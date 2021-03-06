@@ -8,11 +8,11 @@
 namespace app\controllers;
 
 
-use thecodeholic\phpmvc\Application;
-use thecodeholic\phpmvc\Controller;
-use thecodeholic\phpmvc\middlewares\AuthMiddleware;
-use thecodeholic\phpmvc\Request;
-use thecodeholic\phpmvc\Response;
+use ng\core\Application;
+use ng\core\Controller;
+use ng\core\middlewares\AuthMiddleware;
+use ng\core\Request;
+use ng\core\Response;
 use app\models\LoginForm;
 use app\models\User;
 

@@ -8,8 +8,8 @@
 namespace app\models;
 
 
-use thecodeholic\phpmvc\Application;
-use thecodeholic\phpmvc\Model;
+use ng\core\Application;
+use ng\core\Model;
 
 /**
  * Class LoginForm

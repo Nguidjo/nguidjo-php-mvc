@@ -5,7 +5,7 @@
  * Time: 8:21 AM
  */
 
-use thecodeholic\phpmvc\Application;
+use ng\core\Application;
 
 require_once __DIR__.'/vendor/autoload.php';
 $dotenv = \Dotenv\Dotenv::createImmutable(__DIR__);
